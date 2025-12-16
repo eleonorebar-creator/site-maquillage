@@ -23,7 +23,7 @@ const productsData = [
     name: "Rouge à lèvres",
     price: 15,
     category: "lips",
-    img: "/assets/image5.jpeg"
+    img: "assets/image5.jpeg"
   }
 ];
 
