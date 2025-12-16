@@ -3,27 +3,27 @@ const productsData = [
     name: "Rouge à lèvres",
     price: 15,
     category: "lips",
-    img: "/assets/image0.jpeg"
+    img: "assets/image0.jpeg"
   },
-  { name: "Gloss", price: 12, category: "lips", img: "/assets/image1.jpeg" },
-  { name: "Blush", price: 18, category: "face", img: "/assets/image2.jpeg" },
+  { name: "Gloss", price: 12, category: "lips", img: "assets/image1.jpeg" },
+  { name: "Blush", price: 18, category: "face", img: "assets/image2.jpeg" },
   {
     name: "Fond de teint",
     price: 25,
     category: "face",
-    img: "/assets/image3.jpeg"
+    img: "assets/image3.jpeg"
   },
   {
     name: "Anticerne",
     price: 14,
     category: "face",
-    img: "/assets/image4.jpeg"
+    img: "assets/image4.jpeg"
   },
   {
     name: "Mascara",
     price: 16,
     category: "eyes",
-    img: "/assets/image5.jpeg"
+    img: "assets/image5.jpeg"
   }
 ];
 
